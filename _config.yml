@@ -1,2 +1,30 @@
 theme: jekyll-theme-minimal
 logo: Tania.jpg
+
+# Dependencies
+highlighter:   rouge   #pygments
+
+gems: 
+  - jekyll-paginate
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Tania Wang
+tagline:          'Too little time'
+description:      'VP of SMT'
+url:              http://tania.wang
+baseurl:          /
+
+author:
+  name:           'Tania Wang'
+  url:            https://www.researchgate.net/profile/tania_wang
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+#  repo:           https://github.com/xigyou
