@@ -1,15 +1,19 @@
 # Site
-title:              hzcforever
-bio:                '自律给人掌控生活的力量'
-description:        "自律给人掌控生活的力量"
+title:              Tania Wang
+bio:                'Discover bioinformatics'
+description:        "VP of AccuraScience LLC"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.jpg'
-background:         'assets/img/background.jpg'
+logo:               'Tania.jpg'
+background:         'Tania.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
-url:                https://hzcforever.github.io/
+url:                https://tania.wang
 force-https: true
+
+author:
+  name:           'Tania Wang'
+  url:            https://www.researchgate.net/profile/tania_wang
 
 # Jekyll
 permalink:          /:title/
@@ -28,7 +32,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   https-hzcforever-github-io
+disqus_shortname:   https-tania-wang
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,10 +43,10 @@ disqus_shortname:   https-hzcforever-github-io
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              847445563@qq.com
+email:              i@tania.wang
 #twitter:            username
 #facebook:           username
-github:             hzcforever
+#github:             xigyou
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -76,4 +80,3 @@ jekyll-mentions:
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
 
 theme: jekyll-theme-minimal
-
