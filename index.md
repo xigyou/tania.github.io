@@ -1,6 +1,7 @@
 # Welcome
 
 Hi! I am Tania Wang, Welcome to my personal website. 
+
 You can contact with me by email i at tania.wang.
 
 
@@ -8,6 +9,7 @@ You can contact with me by email i at tania.wang.
 
 ### 2014.07 - now   AccuraScience, LLC ([www.AccuraScience.com](http://www.AccuraScience.com))  
   2014.07 - 2015.05   Bioinformatics Engineer
+  
   2015.05 - now       Project Supervisor
 
 
@@ -23,6 +25,7 @@ You can contact with me by email i at tania.wang.
 
 ## Education
 2011.09-2014.06: M.S., Wenzhou Medical University, Wenzhou, P. R. China, Genetics.
+
 2006.09-2010.06: B.S., Chongqing University of Posts and Telecommunications, Chongqing, P. R. China, Bioinformatics.
 
 ## Publications
