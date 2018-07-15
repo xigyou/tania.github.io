@@ -21,7 +21,7 @@ markdown:           kramdown
 highlighter:        rouge
 kramdown:
   input:            GFM
-  auto_ids:         true
+  auto_ids:         false
   footnote_nr:      1
   entity_output:    as_char
   toc_levels:       1..6
@@ -73,8 +73,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+#    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
