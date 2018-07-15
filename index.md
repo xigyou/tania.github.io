@@ -6,9 +6,8 @@ You can contact with me by email i at tania.wang.
 
 ## Work Experience
 
-###### 2014.07 - now   AccuraScience, LLC (www.AccuraScience.com)  
+### 2014.07 - now   AccuraScience, LLC ([www.AccuraScience.com](http://www.AccuraScience.com))  
   2014.07 - 2015.05   Bioinformatics Engineer
-  
   2015.05 - now       Project Supervisor
 
 
