@@ -2,6 +2,11 @@
 # This file contains configuration flags to customize your site
 #
 
+webrick:
+  headers:
+    My-Header: My-Value
+    My-Other-Header: My-Other-Value
+
 # Name of your site (displayed in the header)
 name: Tania Wang
 
@@ -18,7 +23,7 @@ avatar: Tania2.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:'i@tania.wang'
+  email:
   facebook:
   flickr:
   github: 
