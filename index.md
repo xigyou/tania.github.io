@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/xigyou/tania.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am Tania Wang, Welcome to my personal website. You can contact with me by email i at tania.wang.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Work Experience
+| - | - |
+| 2014.07 - now  | AccuraScience, LLC (www.AccuraScience.com) |
+| 2014.07 - 2015.05 |  Bioinformatics Engineer |
+| 2015.05 - now   | Project Supervisor |
+| - | - |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Project Experience and Capabilities
+1.	Experienced skills in Next-Generation sequencing (Illumina) data analysis including genomics, transcriptome and regulatome (miRNA, ncRNA, ChIP-seq on histone marks and epigenome).
+2.	Experienced skills in gene expression microarray analysis. 
+3.	Experienced skills in machine learning applications on identification of gene expression signatures using four classification methods including support vector machine (SVM), random forest (RF), Naïve Bayes (NB) and Linear Discriminant Analysis (LDA), and four feature selection methods including recursive feature elimination (RFE), Chi-Squared (CS), correlation-based feature selection method (CFS) and information gain ratio (IGR).
+4.	Highly skilled in Perl programming: seven years.
+5.	Considerably experienced in R Statistical and Linux Shell Programming.
+6.	Familiar with Python, PHP, SQL and JavaScript Language.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Education
+2011.09-2014.06: M.S., Wenzhou Medical University, Wenzhou, P. R. China, Genetics.
+2006.09-2010.06: B.S., Chongqing University of Posts and Telecommunications, Chongqing, P. R. China, Bioinformatics.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xigyou/tania.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
+1.	Wang T, Liu Q, Li X, Wang X, Li J, Zhu X, Sun ZS, Wu J: RRBS-analyser: a comprehensive web server for reduced representation bisulfite sequencing data analysis. Hum Mutat 2013, 34(12):1606-1610.
+2.	Li J, Jiang Y, Wang T, et al. mirTrios: an integrated pipeline for detection of de                novo and rare inherited mutations from trios-based next-generation sequencing[J]. Journal of medical genetics, 2015, 52(4): 275-281.
+3.	Wang M, Fan X, Wang T, Wu J: High-throughput sequencing of autism spectrum disorders comes of age. Genet Res (Camb) 2013, 95(4):121-129.
+4.	Wu J, Liu Q, Wang X, Zheng J, Wang T, You M, Sheng Sun Z, Shi Q: mirTools 2.0 for non-coding RNA discovery, profiling, and functional annotation based on high-throughput sequencing. RNA Biol 2013, 10(7):1087-1092. 
