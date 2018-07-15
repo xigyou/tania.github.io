@@ -19,6 +19,8 @@ force-https: true
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
+view:               false
+maintained:         false
 kramdown:
   input:            GFM
   auto_ids:         false
