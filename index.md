@@ -1,14 +1,15 @@
 # Welcome
 
-Hi! I am Tania Wang, Welcome to my personal website. You can contact with me by email i at tania.wang.
+Hi! I am Tania Wang, Welcome to my personal website. 
+You can contact with me by email i at tania.wang.
 
 
 ## Work Experience
-| - | - |
-| 2014.07 - now  | AccuraScience, LLC (www.AccuraScience.com) |
-| 2014.07 - 2015.05 |  Bioinformatics Engineer |
-| 2015.05 - now   | Project Supervisor |
-| - | - |
+
+2014.07 - now   AccuraScience, LLC (www.AccuraScience.com)  
+  2014.07 - 2015.05   Bioinformatics Engineer 
+  2015.05 - now       Project Supervisor 
+
 
 
 ## Project Experience and Capabilities
