@@ -5,10 +5,14 @@ Hi! I am Tania Wang, Welcome to my personal website.
 
 ## Work Experience
 
-### 2014.07 - now   AccuraScience, LLC ([www.AccuraScience.com](http://www.AccuraScience.com))  
+### 2019.03 - now   Beijing Institutes of Life Science, CAS
+  2019.03 - now   Bioinformatics Engineer
+
+
+### 2014.07 - 2019.02   AccuraScience, LLC ([www.AccuraScience.com](http://www.AccuraScience.com))  
   2014.07 - 2015.05   Bioinformatics Engineer
   
-  2015.05 - now       Project Supervisor
+  2015.05 - 2019.02       Project Supervisor
 
 
 
