@@ -4,7 +4,7 @@ bio:                'Discover bioinformatics'
 description:        "Email: i at tania.wang"
 reading_time:       false
 words_per_minute:   200
-logo:               'Tania2.jpg'
+logo:               'tania2.jpeg'
 background:         'Tania.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
