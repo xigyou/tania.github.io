@@ -11,6 +11,7 @@ Hi! I am Tania Wang, Welcome to my personal website.
 
 ### 2014.07 - 2019.02   [AccuraScience, LLC](http://www.AccuraScience.com)
   2014.07 - 2015.05   Bioinformatics Engineer
+  
   2015.05 - 2019.02       Project Supervisor
 
 
