@@ -30,6 +30,7 @@ Hi! I am Tania Wang, Welcome to my personal website.
 ## Education
 
    2019.09 - now: Ph.D, Scholl of Life Sciences, CSU, Chagnsha, P. R. China, Genetics. 
+   
    2019.09 - now: Ph.D, Beijing Institutes of Life Science, CAS, Beijing, P. R. China, Genetics.
  
    2011.09 - 2014.06: M.S., Wenzhou Medical University, Wenzhou, P. R. China, Genetics.
