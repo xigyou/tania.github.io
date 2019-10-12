@@ -5,13 +5,12 @@ Hi! I am Tania Wang, Welcome to my personal website.
 
 ## Work Experience
 
-### 2019.03 - now   [Beijing Institutes of Life Science, CAS](http://www.biols.cas.cn/)
-  2019.03 - now   Bioinformatics Engineer
+### 2019.03 - 2019.08   [Beijing Institutes of Life Science, CAS](http://www.biols.cas.cn/)
+  2019.03 - 2019.08   Bioinformatics Engineer
 
 
 ### 2014.07 - 2019.02   [AccuraScience, LLC](http://www.AccuraScience.com)
   2014.07 - 2015.05   Bioinformatics Engineer
-  
   2015.05 - 2019.02       Project Supervisor
 
 
@@ -26,9 +25,13 @@ Hi! I am Tania Wang, Welcome to my personal website.
 
 
 ## Education
-2011.09-2014.06: M.S., Wenzhou Medical University, Wenzhou, P. R. China, Genetics.
 
-2006.09-2010.06: B.S., Chongqing University of Posts and Telecommunications, Chongqing, P. R. China, Bioinformatics.
+2019.09 - now: Ph.D, Scholl of Life Sciences, CSU, Chagnsha, P. R. China, Genetics. 
+2019.09 - now: Ph.D, Beijing Institutes of Life Science, CAS, Beijing, P. R. China, Genetics.
+
+2011.09 - 2014.06: M.S., Wenzhou Medical University, Wenzhou, P. R. China, Genetics.
+
+2006.09 - 2010.06: B.S., Chongqing University of Posts and Telecommunications, Chongqing, P. R. China, Bioinformatics.
 
 ## Publications
 1.	**Wang T**, Liu Q, Li X, Wang X, Li J, Zhu X, Sun ZS, Wu J: RRBS-analyser: a comprehensive web server for reduced representation bisulfite sequencing data analysis. **Hum Mutat** 2013, 34(12):1606-1610. [pdf download](https://tania.wang/publications/wang2013.pdf)
