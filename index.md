@@ -20,19 +20,6 @@ Biomedical informatics, computational biology, functional genomics, immunotherap
     2014.07 - 2015.05   Bioinformatics Engineer
 
 
-## Project Experience and Capabilities
-
-   1.	Experienced skills in Next-Generation sequencing (Illumina) data analysis including genomics, transcriptome and regulatome (miRNA, ncRNA, ChIP-seq on histone marks and epigenome).
-   2.	Experienced skills in gene expression microarray analysis. 
-   3.	Experienced skills in machine learning applications on identification of gene expression signatures using four classification methods including support vector machine (SVM), random forest (RF), Naïve Bayes (NB) and Linear Discriminant Analysis (LDA), and four feature selection methods including recursive feature elimination (RFE), Chi-Squared (CS), correlation-based feature selection method (CFS) and information gain ratio (IGR).
-   4.	Highly skilled in Perl programming: seven years.
-   5.	Considerably experienced in R Statistical and Linux Shell Programming.
-   6.	Familiar with Python, PHP, SQL and JavaScript Language.
-   7.	[OncoVar](https://oncovar.org/)
-   8.	[AI-Driver](http://aidriver.maolab.org/)
-   9.	[RRBS-analyser](http://www.wzgenomics.cn/RRBSAnalyser/)
-
-
 ## Education
 
    2019.09 - now: Ph.D, School of Life Sciences, CSU, Changsha, P. R. China, Genetics. 
@@ -42,6 +29,14 @@ Biomedical informatics, computational biology, functional genomics, immunotherap
    2011.09 - 2014.06: M.S., Wenzhou Medical University, Wenzhou, P. R. China, Genetics.
  
    2006.09 - 2010.06: B.S., Chongqing University of Posts and Telecommunications, Chongqing, P. R. China, Bioinformatics.
+
+
+## Bioinformatics tools, Database and Pipeline
+
+   1.	[OncoVar](https://oncovar.org/)
+   2.	[AI-Driver](http://aidriver.maolab.org/)
+   3.	[RRBS-analyser](http://www.wzgenomics.cn/RRBSAnalyser/)
+
 
 ## Publications
    1.   Ran X, Xiao J, Cheng F, **Wang T**, Teng H, Sun Z. Pan-cancer analyses of synonymous mutations based on tissue-specific codon optimality. **Comput Struct Biotechnol J**. 2022 Jul 6;20:3567-3580. doi: 10.1016/j.csbj.2022.07.005. PMID: 35860410; PMCID: PMC9287186. [pdf download](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287186/pdf/main.pdf)
