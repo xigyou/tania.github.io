@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: 20%;
-  max-width: 200px;
+  width: 10%;
+  max-width: 1366px;
   // left side is 270
   // 1200-270 = 930
   // 30px free room
@@ -13,7 +13,7 @@
 }
 
 section {
-  width:100%;
+  width:90%;
   float:right;
   padding-bottom:50px;
   margin:0 auto;
