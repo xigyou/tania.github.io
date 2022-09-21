@@ -31,7 +31,7 @@ Biomedical informatics, computational biology, functional genomics, immunotherap
    2006.09 - 2010.06: B.S., Chongqing University of Posts and Telecommunications, Chongqing, P. R. China, Bioinformatics.
 
 
-## Bioinformatics tools, Database and Pipeline
+## Bioinformatics Tools, Databases and Pipelines
 
    1.	[OncoVar](https://oncovar.org/)
    2.	[AI-Driver](http://aidriver.maolab.org/)
