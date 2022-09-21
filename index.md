@@ -2,7 +2,7 @@
 
 Hi! I am Tania Wang, Welcome to my personal website. 
 
-## Research interests
+## Research Interests
 
 Biomedical informatics, computational biology, functional genomics, immunotherapy and developmental neurobiology;  focusing on cancer and neurodevelopmental disorders;  interfacing biomedical science with machine learning, algorithms, and omics.
 
