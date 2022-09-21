@@ -3,18 +3,14 @@
 
 @import "{{ site.theme }}";
 
-.wrapper {
-  width:1920px;
-  //  width:1200px;
-  // left side is 270
-  // 1200-270 = 930
-  // 30px free room
-  margin:0 auto;
+.wrapper_wide { 
+	width: 95%;
+    max-width: 1920px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-flow: wrap;
 }
 
-section {
-  width:1200px;
-  float:right;
-  padding-bottom:50px;
-  margin:0 auto;
-}
+.section_wide { width: 73%; float: right; padding-bottom: 50px; }
