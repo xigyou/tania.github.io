@@ -2,6 +2,9 @@
 
 Hi! I am Tania Wang, Welcome to my personal website. 
 
+## Research interests
+
+Biomedical informatics, computational biology, functional genomics, immunotherapy and developmental neurobiology;  focusing on cancer and neurodevelopmental disorders;  interfacing biomedical science with machine learning, algorithms, and omics.
 
 ## Work Experience
 
@@ -25,6 +28,9 @@ Hi! I am Tania Wang, Welcome to my personal website.
    4.	Highly skilled in Perl programming: seven years.
    5.	Considerably experienced in R Statistical and Linux Shell Programming.
    6.	Familiar with Python, PHP, SQL and JavaScript Language.
+   7.	[OncoVar](https://oncovar.org/)
+   8.	[AI-Driver](http://aidriver.maolab.org/)
+   9.	[RRBS-analyser](http://www.wzgenomics.cn/RRBSAnalyser/)
 
 
 ## Education
