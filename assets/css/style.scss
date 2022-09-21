@@ -1,16 +1,18 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 
-.wrapper_wide { 
-	width: 95%;
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    flex-flow: wrap;
+.wrapper {
+  width:100%;
+  // left side is 270
+  // 1200-270 = 930
+  // 30px free room
+  margin:0 auto;
 }
 
-.section_wide { width: 90%; float: right; padding-bottom: 50px; }
+section {
+  width:80%;
+  float:right;
+  padding-bottom:50px;
+}
