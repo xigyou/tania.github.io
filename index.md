@@ -15,7 +15,9 @@ Biomedical informatics, computational biology, functional genomics, immunotherap
 
 ### 2014.07 - 2019.02   [AccuraScience, LLC](http://www.AccuraScience.com)
 
-    2015.05 - 2019.02   Project Supervisor
+    2016.08 - 2019.02   Vice President
+    
+    2015.05 - 2016.08   Project Supervisor
     
     2014.07 - 2015.05   Bioinformatics Engineer
 
